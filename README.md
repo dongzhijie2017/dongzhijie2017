@@ -71,14 +71,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>Here's a glance at my GitHub activity:</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dongzhijie2017&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dongzhijie's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzhijie2017&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ![Dongzhijie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongzhijie2017&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongzhijie2017&layout=compact&theme=radical&hide_border=true)
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
