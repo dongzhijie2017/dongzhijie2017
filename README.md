@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 #### 📚 **创作与笔记**
 * **[ChaseLostVoices.github.io](https://github.com/dongzhijie2017/ChaseLostVoices.github.io)**: 我的个人博客/创作空间，存放我的故事和想法。
 * **[Web-Security-Notes](https://github.com/dongzhijie2017)**: *[计划中]* Web 安全攻防与渗透测试学习笔记。
+* **[Agentic AI 智能体开发实战 - 学习与实践笔记 Project 1 完整实战复盘与代码详解](docs/Project1-MCP实战笔记.md)
 
 #### ☕ **Java 与其他**
 * **[java_pro](https://github.com/dongzhijie2017/java_pro)**: Java 编程进阶之路。
