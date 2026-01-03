@@ -126,15 +126,15 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub 统计
 
+```html
 <div align="center">
-  <p>Here's a glance at my GitHub activity:</p>
   
-  <!-- 方案1：使用标准 API -->
-  ![Dongzhijie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongzhijie2017&show_icons=true&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dongzhijie2017&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="Dongzhijie's GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongzhijie2017&layout=compact&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzhijie2017&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" alt="Top Languages" />
+  
 </div>
-
+```
 ---
 
 <p align="center">
