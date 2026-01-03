@@ -126,7 +126,6 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub 统计
 
-```html
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dongzhijie2017&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="Dongzhijie's GitHub Stats" />
@@ -134,7 +133,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzhijie2017&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" alt="Top Languages" />
   
 </div>
-```
 ---
 
 <p align="center">
