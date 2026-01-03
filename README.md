@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dongzhijie2017/dongzhijie2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
